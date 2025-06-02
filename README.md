@@ -1,3 +1,3 @@
 # Shegol-DLL-Injector
 
-A DLL Injector made by SheGoal47
+A Simple DLL Injector made by SheGoal47
